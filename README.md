@@ -13,7 +13,7 @@ I'm Trisha Aquino 👋<br/><br/>
 ⭐ Astronomy<br/>
 🚗 Long drives or travels<br/>
 🎮 Video games<br/>
-🥘 Cooking (Hannibal Lector style🌠)<br/>
+🥘 Cooking (Hannibal Lector style🕴️)<br/>
 
 ### 💻 My Stacks:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
