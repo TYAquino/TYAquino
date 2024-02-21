@@ -1,11 +1,11 @@
 <!-- My profile: I'll just have to edit it along the way :D -->
 
-## Welcome to my humble abode :love_you_gesture::relaxed:
+## Welcome to my humble abode :love_you_gesture:😎
 
 ### 👋 What's up, I'm Trisha Aquino!
 👩‍💻 Currently studying software development at SAIT<br/>
 🎨 A freelance [artist](https://www.instagram.com/leakissha/?hl=en) by day and a gamer by night<br/>
-🏆 Won 1st place at both SAIT Hackathon 2023 and YYC Hacks 2024
+🏆 Won 1st place at both SAIT Hackathon 2023 and [YYC Hacks 2024](https://yychacks.ca/)
 
 ### 👀 Current Interests 
 🤖 Machine Learning<br/>
