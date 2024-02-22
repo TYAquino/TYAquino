@@ -5,7 +5,7 @@
 ### 👋 What's up, I'm Trisha Aquino!
 👩‍💻 Currently studying software development at SAIT<br/>
 🎨 A freelance [artist](https://www.instagram.com/leakissha/?hl=en) by day and a gamer by night<br/>
-🏆 Won 1st place at both [SAIT Hackathon 2023](https://www.linkedin.com/posts/trishaaquino_saithack-activity-7141874351141699585-Tarl?utm_source=share&utm_medium=member_desktop) and [YYC Hacks 2024](https://yychacks.ca/)
+🏆 Won 1st place at both [SAIT Hackathon 2023](https://www.linkedin.com/posts/trishaaquino_saithack-activity-7141874351141699585-Tarl?utm_source=share&utm_medium=member_desktop) and [YYC Hacks 2024]([https://yychacks.ca/](https://livewirecalgary.com/2024/02/05/yyc-hacks-2024-hackathon-winner-gives-newcomers-info-right-after-they-land-in-calgary/))
 
 ### 👀 Current Interests 
 🤖 Machine Learning<br/>
