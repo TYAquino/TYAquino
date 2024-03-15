@@ -9,7 +9,6 @@
 
 ### 👀 Current Interests 
 🤖 Machine Learning<br/>
-📱 Mobile App interface (want to learn this one so bad)<br/>
 ⭐ Astronomy<br/>
 🚗 Long drives or travels<br/>
 🎮 Video games<br/>
