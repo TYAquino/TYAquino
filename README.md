@@ -30,7 +30,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TYAquino&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
